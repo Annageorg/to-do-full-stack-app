@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { useState } from "react";
-import Button from "react-bootstrap/Button";
 import "./Counter.css";
 
 const Counter = () => {
